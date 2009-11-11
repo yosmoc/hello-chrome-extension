@@ -1,0 +1,5 @@
+{
+        "name": "Hello World",
+        "version": "0.0.1",
+        "toolstrips": ["toolstrip.html"]
+}
